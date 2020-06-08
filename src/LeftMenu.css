@@ -1,0 +1,17 @@
+.DisplayedMenu {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 20%;
+  height: 100%;
+  background-color: #00aaff;
+}
+
+.HiddenMenu {
+  position: fixed;
+  left: 0;
+  top: 0;
+  width: 5%;
+  height: 100%;
+  background-color: #00aaff;
+}
