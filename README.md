@@ -15,5 +15,5 @@ Use `npm install` to install the following dependencies:
 * material-ui/icons
 * material-ui/tools
 
-Or you can go to https://codesandbox.io/s/movie-searcher-challenge-h072m?file=/src/Searcher.js and watch it run it there.
+Or you can go to https://codesandbox.io/s/movie-searcher-challenge-h072m?file=/src/Searcher.js and watch it run there.
 
