@@ -1,0 +1,18 @@
+.CardList {
+  border-bottom: 15px;
+}
+
+.MainDiv {
+  border-left: 45px;
+}
+
+.MainColumn {
+  float: left;
+  width: 66.66%;
+  border-right: 15px;
+}
+
+.RightColumn {
+  float: right;
+  width: 33.33%;
+}

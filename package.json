@@ -1,16 +1,17 @@
 {
-  "name": "react",
+  "name": "movie-searcher-challenge",
   "version": "1.0.0",
-  "description": "React example starter project",
-  "keywords": [
-    "react",
-    "starter"
-  ],
+  "description": "",
+  "keywords": [],
   "main": "src/index.js",
   "dependencies": {
+    "@material-ui/core": "4.10.1",
+    "@material-ui/icons": "4.9.1",
+    "@material-ui/utils": "4.9.12",
     "axios": "0.19.2",
     "react": "16.12.0",
     "react-dom": "16.12.0",
+    "react-router-dom": "5.2.0",
     "react-scripts": "3.0.1"
   },
   "devDependencies": {

@@ -2,8 +2,11 @@
   position: fixed;
   left: 0;
   top: 0;
-  width: 20%;
+  width: 260px;
   height: 100%;
+  border-top: 35px;
+  border-left: 35px;
+  border-right: 35px;
   background-color: #00aaff;
 }
 
@@ -11,7 +14,7 @@
   position: fixed;
   left: 0;
   top: 0;
-  width: 5%;
+  width: 26px;
   height: 100%;
   background-color: #00aaff;
 }
